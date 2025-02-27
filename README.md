@@ -1,2 +1,2 @@
-# CSCI3251_Kwong_Shing_Hei
-This is the project of Kwong Shing Hei
+<Name>: Hello, I‘m <YourName>!
+<SID>: My Student number is <YourSID>!
