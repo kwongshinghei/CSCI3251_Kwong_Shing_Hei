@@ -1,2 +1,3 @@
-# CSCI3251_Kwong_Shing_Hei
-This is the project of Kwong Shing Hei
+<Name>: Hello, I‘m Kwong Shing Hei!
+<SID>: My Student number is 1155195167!
+I will pull my project later.
